@@ -3,6 +3,9 @@ body {
   background-color: rgb(203, 255, 196);
   margin-left: 10px;
   margin-right: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
+}
+
+nav a {
+  margin-left: 20px;
+  margin-right: 20px;
 }
