@@ -1,5 +1,8 @@
 body {
   font-family: "Lora", serif;
   background-color: rgb(203, 255, 196);
-  margin: 3%;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
